@@ -49,7 +49,8 @@ The objective was to transform raw CSV data into meaningful business insights th
 ## 📸 Report Snapshots
 
 ### Customer Performance Report
-![Customer Report]()
+![Customer Report](Images/Customer Performance Report.png)
+
 
 ### Market Performance vs Target
 ![Market Report](images/market_vs_target.png)
