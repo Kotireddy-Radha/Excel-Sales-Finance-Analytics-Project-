@@ -1,4 +1,5 @@
-# Excel : Sales-Analytics-Project | Excel | Power Query | Data Modeling | Power Pivot
+# Excel : Sales-Analytics-Project 
+### Excel | Power Query | Data Modeling | Power Pivot
 ## 📌 Project Overview
 This project demonstrates an end-to-end Sales & Financial analytics solution built using large-scale real-world data (~800,000 records).
 
