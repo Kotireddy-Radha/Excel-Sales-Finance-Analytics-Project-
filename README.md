@@ -1,4 +1,5 @@
 # Excel : Sales-Analytics-Project
+### Excel | Power Query | Data Modeling | Power Pivot
 ## 📌 Project Overview
 This project demonstrates an end-to-end Sales & Financial analytics solution built using large-scale real-world data (~800,000 records).
 
@@ -33,8 +34,8 @@ The objective was to transform raw CSV data into meaningful business insights th
 ## 🧱 Data Modeling
 - Built a structured **data model in Power Pivot**
 - Established relationships between:
-  - Fact Table (Sales & Target)
-  - Dimension Tables (Customer, Market, Product, & Date)
+  - Fact Table (Sales Data)
+  - Dimension Tables (Customer, Market, Product, Date)
 - Optimized performance for handling ~800K rows
 
 ---
@@ -48,21 +49,28 @@ The objective was to transform raw CSV data into meaningful business insights th
 ---
 ## 📸 Report Snapshots
 
+Below are key report outputs highlighting business performance and insights:
+
 ### Customer Performance Report
-![Customer Report](Images/Customer Performance Report.png)
+📌 Shows top customers and YoY growth trends  
+![Customer Report](Images/Customer_Performance.png)
 
 
 ### Market Performance vs Target
-![Market Report](images/market_vs_target.png)
+📌 Compares actual vs target performance across countries  
+![Market Report](Images/Market_Performance_vs_Target.png)
 
 ### P&L Statement (Yearly)
-![P&L Yearly](images/pl_yearly.png)
+📌 Provides yearly revenue, cost, and profitability overview  
+![P&L Yearly](Images/P&L_Statement_by_Year.png)
 
 ### P&L Statement (Monthly)
-![P&L Monthly](images/pl_monthly.png)
+📌 Highlights monthly trends and seasonality  
+![P&L Monthly](Images/P&L_Statement_by_Months.png)
 
-### P&L by Market
-![P&L Market](images/pl_market.png)
+### P&L Statement by Market
+📌 Shows market-wise profitability comparison  
+![P&L Market](Images/P&L_Statement_by_Market.png)
 
 ## 📊 Reports & Insights
 
@@ -109,8 +117,7 @@ Sales trends are stable with slight peaks across certain quarters.
 - Gross Margin % comparison
   
 📌 Insight:
-India drives the majority of sales, whereas New Zealand and France achieve higher margins,
-highlighting potential to scale profitable markets.
+India drives the majority of sales, whereas New Zealand and France achieve higher margins, highlighting the potential to scale profitable markets.
 
 ---
 
